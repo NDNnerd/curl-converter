@@ -20,9 +20,9 @@ pip install curl-converter
 ## Usage:
 
 Curl Converter accepts:
-    - curl string
-    - list of curl parameters
-    - path to a text file containing a curl string
+- curl string
+- list of curl parameters
+- path to a text file containing a curl string
 
 ### A Curl String Example:
 
