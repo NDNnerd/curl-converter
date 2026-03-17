@@ -72,9 +72,6 @@ from curl_converter import Curl, read_curl_str
 curl = Curl('path/to/curl/string.txt')
 
 # - or -
-curl = Curl('path/to/curl/string.txt')
-
-# - or -
 curl_str = read_curl_str('path/to/curl/string.txt')
 curl = Curl(curl_str)
 
